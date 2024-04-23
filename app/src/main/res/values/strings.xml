@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Private Messanger JKT48</string>
+    <string name="title">no internet connection</string>
+    <string name="supporting_text">check your internet connection</string>
+    <string name="close">Close</string>
+    <string name="logo_content">logo</string>
+</resources>
